@@ -48,6 +48,8 @@ dist/**
 data/clean
 data/original
 data/processed_v1/processed_data.npz
+data/outputs
+data/Zeggs_data*
 
 .vscode
 .idea
